@@ -5,6 +5,7 @@ import "./login.css";
 
 export default function Login() {
 	const [email, setemail] = useState("");
+	const [password, setpassword] = useState("");
 
 	//componentDidMount
 	useEffect(() => {

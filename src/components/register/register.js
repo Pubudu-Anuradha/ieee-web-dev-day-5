@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { Card, Container, Form, Button, Row, Col } from "react-bootstrap";
 import "./register.css";
 
 export default function Register() {
@@ -38,4 +39,4 @@ export default function Register() {
 			</Row>
 		</Container>
 	);
-
+}
