@@ -28,8 +28,8 @@ export default function Login() {
 	return (
 		<Container className="container">
 			<Row>
-				<Col md={{ span: 6, offset: 3 }}>
-					<Card border="dark" bg="dark" text="white">
+				<Col md={{ span: 6,offset:3 }}>
+					<Card>
 						<Card.Body>
 							<Card.Title className="center-text">Login Form</Card.Title>
 							<Form>

@@ -3,7 +3,7 @@ import LoginClass from "./components/login/loginclass";
 import Login from "./components/login/login";
 import Register from "./components/register/register";
 import "bootstrap/dist/css/bootstrap.min.css";
-
+import "./App.css";
 function App() {
 	return (
 		<Router>

@@ -30,7 +30,7 @@ export default function Register() {
 		<Container className="container" fluid="md">
 			<Row>
 				<Col md={{ span: 6, offset: 3 }}>
-					<Card border="dark" bg="dark" text="white">
+					<Card>
 						<Card.Body>
 							<Card.Title className="center-text">Register Form</Card.Title>
 							<Form>
